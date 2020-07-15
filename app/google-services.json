@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31637409490",
+    "firebase_url": "https://vayfeeapp-54090.firebaseio.com",
+    "project_id": "vayfeeapp-54090",
+    "storage_bucket": "vayfeeapp-54090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31637409490:android:2977ec681244831ea9670b",
+        "android_client_info": {
+          "package_name": "com.vayfee.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31637409490-evavrtsg0o82m7genqssuailvmobigkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3pISwneaCsw9FuhmgGbbNHWGrk9NSfL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31637409490-evavrtsg0o82m7genqssuailvmobigkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
